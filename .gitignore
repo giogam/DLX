@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/.vs
+/.vs
+/.vs/ProjectSettings.json
